@@ -1,1 +1,1 @@
-0x00. Shell, basics
+Shell, I/O Redirections and filters
